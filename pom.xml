@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.pkusz.netlab</groupId>
-    <artifactId>netty-demo</artifactId>
+    <artifactId>yet-another-netty-http-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -53,7 +53,7 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>lock.LockHubServer</mainClass>
+                                    <mainClass>HttpClient</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
