@@ -1,4 +1,3 @@
-package http_client;
 
 import com.sun.org.apache.xpath.internal.operations.Bool;
 import io.netty.buffer.ByteBuf;

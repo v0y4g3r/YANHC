@@ -1,4 +1,3 @@
-package http_client;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInitializer;
